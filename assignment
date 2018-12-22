@@ -1,0 +1,30 @@
+>Create a function that takes two numbers and prints out the greater number.
+
+IF the number 1 is greater than 10
+  PRINT "Number 1 is greater."
+ELSE
+  PRINT "Number 10 is greater."
+
+>Create a function that prints out the numbers from 1 to 100.
+INIT total to 0
+INPUT a number
+WHILE the number is not 101
+  ADD number to total
+  INPUT a number
+END WHILE
+RETURN total
+
+>Create a function that searches for a specific entry in a phonebook.
+INPUT name
+Print "Diana."
+
+>Using the pseudocode you wrote for the previous question, implement it in any computer language of your choice.
+
+<!DOCTYPE>
+<html>
+<head>
+</head>
+<body>
+<h1>'Diana'</h1>
+</body>
+</html>
